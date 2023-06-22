@@ -3,60 +3,60 @@
     "id": 1,
     "name": "Talius Cygnus",
     "price": 135,
-    "imgUrl": "./images/Telius-Cygnus.png"
+    "imgUrl": "./images/Telius-Cygnus.webp"
   },
   {
     "id": 2,
     "name": "Corsair iCUE",
     "price": 170,
-    "imgUrl": "./images/Corsair-icue.png"
+    "imgUrl": "./images/Corsair-icue.webp"
   },
   {
     "id": 3,
     "name": "Lian Li Lancool III",
     "price": 140,
-    "imgUrl": "./images/Lian-li.png"
+    "imgUrl": "./images/Lian-li.webp"
   },
   {
     "id": 4,
     "name": "Cooler Master H500",
     "price": 110,
-    "imgUrl": "./images/Cooler-master-h500.png"
+    "imgUrl": "./images/Cooler-master-h500.webp"
   },
   {
     "id": 5,
     "name": "Nox Hummer MC Pro",
     "price": 40,
-    "imgUrl": "./images/Nox-hummer.png"
+    "imgUrl": "./images/Nox-hummer.webp"
   },
   {
     "id": 6,
     "name": "Nox Hummer TGX",
     "price": 110,
-    "imgUrl": "./images/Nox-hummer-tgx.png"
+    "imgUrl": "./images/Nox-hummer-tgx.webp"
   },
   {
     "id": 7,
     "name": "NZXT H5 Elite",
     "price": 190,
-    "imgUrl": "./images/Nzxt-h5-elite.png"
+    "imgUrl": "./images/Nzxt-h5-elite.webp"
   },
   {
     "id": 8,
     "name": "Cougar Panzer Max-G",
     "price": 190,
-    "imgUrl": "./images/Cougar-panzer.png"
+    "imgUrl": "./images/Cougar-panzer.webp"
   },
   {
     "id": 9,
     "name": "BitFenix Dawn",
     "price": 125,
-    "imgUrl": "./images/Bitfenix-dawn.png"
+    "imgUrl": "./images/Bitfenix-dawn.webp"
   },
   {
     "id": 10,
     "name": "Aerocool Python",
     "price": 65,
-    "imgUrl": "./images/Aerocool-python.png"
+    "imgUrl": "./images/Aerocool-python.webp"
   }
 ]
